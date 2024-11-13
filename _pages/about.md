@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me: Haibin Lai"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,8 @@ redirect_from:
 
 ### Hi there 👋 This is Haibin Lai's Github
 
-I am `Haibin Lai`,  a Computer Science undergraduate student major at **Southern University and Science and Technology**. Problem solving is my lifelong delight. My Research interests span **High Performance Computing**, **Accerlating Computing**, **Database** and so forth. 
+I am `Haibin Lai`, a Computer Science undergraduate student major at **Southern University and Science and Technology**, Turing class. Problem-solving is my lifelong delight. I am currently participating in research in the fields of **GPU Computing on Graph**,
+ at the `SUSTech HPC-Lab`. My Research interests span **High Performance Computing**, **Accerlating Computing**, **Database**, **HPC+AI4Science** and so forth. 
 
 A data-driven personal website
 ======
