@@ -16,7 +16,9 @@ I am currently participating in research in the fields of **GPU Computing on Gra
 
  ---
 
- ## Education
+ Education
+=====
+
  Southern University of Science and Technology, BS in Computer Science
  
  GPA: 3.66/4.0  ([sustech.edu.cn](https://www.sustech.edu.cn/))
