@@ -9,10 +9,10 @@ redirect_from:
 
 
 
-I am **`Haibin Lai`**, a Computer Science undergraduate student in Turing class, *Southern University and Science and Technology(SUSTech)*. Problem-solving is my lifelong delight. 
+I am **Haibin Lai**, a Computer Science undergraduate student in Turing class, Southern University and Science and Technology(SUSTech). Problem-solving is my lifelong delight. 
 
 I am currently participating in research in the fields of **GPU Computing on Graph**,
- at the **`SUSTech HPC-Lab`**. My Research interests span High Performance Computing(HPC), Database, HPC+AI4Science and so forth.
+ at the `SUSTech HPC-Lab`. My Research interests span High Performance Computing(HPC), Database, HPC+AI4Science and so forth.
 
  ---
 
